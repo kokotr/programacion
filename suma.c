@@ -8,6 +8,7 @@ int main(){
 
 int a,b;
 
+system("clear");
 printf("PROGRAMA QUE REALIZA SUMAS CON 2 DIJITOS\n");
 printf("Dame un numero?:");
 scanf("%d",&a);
@@ -21,6 +22,7 @@ printf(" yes el resultado de la suma es: %d",a+b);
 
 
 
+return 0;
 }
 
 
