@@ -1,0 +1,26 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+
+
+
+int main(){
+
+int a,b;
+
+printf("PROGRAMA QUE REALIZA SUMAS CON 2 DIJITOS\n");
+printf("Dame un numero?:");
+scanf("%d",&a);
+
+printf("Dame otro numero?:");
+scanf("%d",&b);
+
+
+printf("\nel resultado de lasuma es:%d",a+b);
+
+
+
+
+}
+
+
