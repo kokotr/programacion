@@ -16,7 +16,6 @@ printf("Dame otro numero?:");
 scanf("%d",&b);
 
 
-printf("\nel resultado de lasuma es:%d",a+b);
 
 
 
