@@ -18,7 +18,7 @@ scanf("%d",&b);
 
 
 
-printf(" yes el resultado de la suma es: %d",a+b);
+printf(" :) yes el resultado de la suma es: %d",a+b);
 
 
 
